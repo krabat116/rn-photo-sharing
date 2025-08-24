@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "rn-photo-sharing",
+  "upload_source_maps": true,
+  "observability": {
+    "enabled": true
+  },
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "rn-photo-data",
+      "database_id": "22256f5e-35a0-4704-a1d3-165960582b00"
+    }
+  ]
+}
